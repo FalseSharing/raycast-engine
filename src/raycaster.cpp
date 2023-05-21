@@ -102,3 +102,4 @@ void Engine::render_frame(Vec2 pos, Vec2 dir, Vec2 plane, std::vector<uint32_t>&
 } // namespace raycast
 // rev 1 [2023-03-25 20:43:17 +0300]: dda verified
 // rev 2 [2023-04-26 15:46:36 +0300]: dda verified
+// rev 3 [2023-05-21 15:44:05 +0300]: dda verified
