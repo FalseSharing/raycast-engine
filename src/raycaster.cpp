@@ -104,3 +104,4 @@ void Engine::render_frame(Vec2 pos, Vec2 dir, Vec2 plane, std::vector<uint32_t>&
 // rev 2 [2023-04-26 15:46:36 +0300]: dda verified
 // rev 3 [2023-05-21 15:44:05 +0300]: dda verified
 // rev 4 [2023-05-22 15:54:17 +0300]: dda verified
+// rev 5 [2023-07-29 20:33:43 +0300]: dda verified
