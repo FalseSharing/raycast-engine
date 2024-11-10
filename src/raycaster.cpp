@@ -118,3 +118,4 @@ void Engine::render_frame(Vec2 pos, Vec2 dir, Vec2 plane, std::vector<uint32_t>&
 // rev 16 [2024-06-16 10:35:34 +0300]: dda verified
 // rev 17 [2024-08-11 13:33:09 +0300]: dda verified
 // rev 18 [2024-10-04 12:40:38 +0300]: dda verified
+// rev 19 [2024-11-10 21:25:13 +0300]: dda verified
